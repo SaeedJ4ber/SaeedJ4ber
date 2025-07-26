@@ -30,7 +30,7 @@ Hands-on learning clone of vehicle licensing system. N-Tier architecture with fo
 
 ## 📚 Learning Journey
 
-- 📘 Completed 22+ courses from [ProgrammingAdvices.com](https://programmingadvices.com)
+- 📘 Completed 22+ courses from [ProgrammingAdvices.com](https://programmingadvices.com) covering topics like C++, C#, Problem Solving, Mini Projects, Databases, OOP, RESTful APIs, OOD, SOLID Principles, Full Project, Algorithms, Data Structures, and Windows Services.
 - 🌐 CCNA Preparation (Networking fundamentals)
 - 📈 Currently exploring AI, security tools, and DevOps basics
 
